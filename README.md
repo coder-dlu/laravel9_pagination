@@ -74,13 +74,13 @@ class UserController extends Controller
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Laravel 9 Pagination Example - ItSolutionStuff.com</title>
+    <title>Laravel 9 Pagination Example</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
       
 <div class="container">
-    <h1>Laravel 9 Pagination Example - ItSolutionStuff.com</h1>
+    <h1>Laravel 9 Pagination Example</h1>
   
     <table class="table table-bordered data-table">
         <thead>
